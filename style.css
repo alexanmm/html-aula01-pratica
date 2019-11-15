@@ -1,0 +1,17 @@
+body {
+    width: 700px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 37px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 46px;
+}
+
+p {
+    color: #333;
+    line-height: 27px;
+    font-size: 18px;
+}
